@@ -1,0 +1,142 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Developer/Website design, logo design and linecard",
+      "category": "Technology",
+      "description": "We are a new automation company and requiring the following: A complete website, logo design and line card. The website needs to be responsive and we a have list of products which needs to be searchable. The company name is K2 Automation like the mountain. We specialise in current and obsolete automation parts (hmi's, servo drives, motors, cpus etc). The message we want to communicate to our customers is that whatever part they are looking for we can source it them, no job is too difficult for us.",
+      "required_skills": ["Programming", "Problem-solving", "Communication"],
+      "salary_range": "$70,000 - $120,000",
+      "posting_date": "2024-10-15",
+      "slug": "developer-website-design-logo-design-linecard",
+      "rating": 4.5,
+      "job_type": "Full-time",
+      "location": "New York, USA"
+    },
+    {
+      "id": 2,
+      "title": "Developer needed to convert custom made website into a WordPress",
+      "category": "Management",
+      "description": "I currently have a website custom built by a local company. My website does not complete the functionality it was designed for and due to it being custom built I have no control over the back end. I am looking for a developer to re-create the exact website I have but in WordPress and guide me through the process of it all.",
+      "required_skills": [
+        "Leadership",
+        "Strategic thinking",
+        "Market research"
+      ],
+      "salary_range": "$90,000 - $150,000",
+      "posting_date": "2024-10-01",
+      "slug": "developer-convert-custom-made-website-wordpress",
+      "rating": 4.2,
+      "job_type": "Contract",
+      "location": "Remote"
+    },
+    {
+      "id": 3,
+      "title": "UI designer for SaaS platform (mobile first)",
+      "category": "Design",
+      "description": "We're looking for a talented UI designer to create some nice interactive wireframes/mockups for our platform. The main focus would be mobile-first, with a strong understanding of the customer journey.",
+      "required_skills": ["Creativity", "Adobe Suite", "Attention to detail"],
+      "salary_range": "$45,000 - $75,000",
+      "posting_date": "2024-09-28",
+      "slug": "ui-designer-saas-platform-mobile-first",
+      "rating": 4.8,
+      "job_type": "Full-time",
+      "location": "San Francisco, USA"
+    },
+    {
+      "id": 4,
+      "title": "Data Scientist",
+      "category": "Technology",
+      "description": "Analyze and interpret complex data to help organizations make informed decisions.",
+      "required_skills": ["Data analysis", "Machine learning", "Statistics"],
+      "salary_range": "$80,000 - $130,000",
+      "posting_date": "2024-10-10",
+      "slug": "data-scientist",
+      "rating": 4.6,
+      "job_type": "Full-time",
+      "location": "London, UK"
+    },
+    {
+      "id": 5,
+      "title": "Registered Nurse",
+      "category": "Healthcare",
+      "description": "Provide patient care and support in hospitals or clinics.",
+      "required_skills": ["Medical knowledge", "Empathy", "Critical thinking"],
+      "salary_range": "$60,000 - $100,000",
+      "posting_date": "2024-10-05",
+      "slug": "registered-nurse",
+      "rating": 4.4,
+      "job_type": "Full-time",
+      "location": "Los Angeles, USA"
+    },
+    {
+      "id": 6,
+      "title": "Marketing Specialist",
+      "category": "Marketing",
+      "description": "Develop and implement marketing campaigns to promote products or services.",
+      "required_skills": ["Creativity", "SEO/SEM", "Content marketing"],
+      "salary_range": "$50,000 - $85,000",
+      "posting_date": "2024-09-30",
+      "slug": "marketing-specialist",
+      "rating": 4.3,
+      "job_type": "Part-time",
+      "location": "Remote"
+    },
+    {
+      "id": 7,
+      "title": "Construction Manager",
+      "category": "Construction",
+      "description": "Plan, coordinate, and oversee construction projects from start to finish.",
+      "required_skills": ["Project management", "Team leadership", "Budgeting"],
+      "salary_range": "$70,000 - $120,000",
+      "posting_date": "2024-10-12",
+      "slug": "construction-manager",
+      "rating": 4.7,
+      "job_type": "Full-time",
+      "location": "Chicago, USA"
+    },
+    {
+      "id": 8,
+      "title": "Financial Analyst",
+      "category": "Finance",
+      "description": "Analyze financial data to provide insights and support decision-making.",
+      "required_skills": [
+        "Financial modeling",
+        "Excel",
+        "Accounting knowledge"
+      ],
+      "salary_range": "$60,000 - $100,000",
+      "posting_date": "2024-10-08",
+      "slug": "financial-analyst",
+      "rating": 4.1,
+      "job_type": "Contract",
+      "location": "Toronto, Canada"
+    },
+    {
+      "id": 9,
+      "title": "Teacher",
+      "category": "Education",
+      "description": "Teach students in a specific subject or grade level.",
+      "required_skills": ["Communication", "Patience", "Lesson planning"],
+      "salary_range": "$40,000 - $70,000",
+      "posting_date": "2024-10-07",
+      "slug": "teacher",
+      "rating": 4.0,
+      "job_type": "Full-time",
+      "location": "New York, USA"
+    },
+    {
+      "id": 10,
+      "title": "Sales Executive",
+      "category": "Sales",
+      "description": "Sell products or services to clients and maintain customer relationships.",
+      "required_skills": ["Negotiation", "Communication", "Sales strategy"],
+      "salary_range": "$50,000 - $90,000",
+      "posting_date": "2024-10-03",
+      "slug": "sales-executive",
+      "rating": 4.2,
+      "job_type": "Part-time",
+      "location": "Vancouver, Canada"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --white:#FFFFFF;
+  --gray: #F1F3F8;
+  --blue: #01ACFC;
+  --black: #000000;
+  --warning: #FF5A02;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  color: var(--black);
+  background: var(--gray);
+
+}
