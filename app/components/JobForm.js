@@ -145,7 +145,7 @@ export default function JobForm() {
 
   return (
     <form
-      className="flex flex-col gap-3 before:bg-white p-6 rounded"
+      className="flex flex-col gap-3 bg-white p-6 rounded"
       onSubmit={handleSubmit}
     >
       <Input
